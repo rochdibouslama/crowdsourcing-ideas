@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crowdsourcing.web", "Crowdsourcing.web\Crowdsourcing.web.csproj", "{03750310-F169-405D-B62F-F6B9DBB662C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crowdsourcing.Data", "Crowdsourcing.Data\Crowdsourcing.Data.csproj", "{CAB011EC-1619-472F-9825-9D85D9938AA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crowdsourcing.Domain", "Crowdsourcing.Domain\Crowdsourcing.Domain.csproj", "{3D0CE1D9-B7FD-48E3-B481-F6A326437A20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crowdsourcing.Service", "Crowdsourcing.Service\Crowdsourcing.Service.csproj", "{B3BE3266-AB52-44C5-9C0D-F5C1ACED68BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03750310-F169-405D-B62F-F6B9DBB662C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03750310-F169-405D-B62F-F6B9DBB662C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03750310-F169-405D-B62F-F6B9DBB662C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03750310-F169-405D-B62F-F6B9DBB662C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAB011EC-1619-472F-9825-9D85D9938AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB011EC-1619-472F-9825-9D85D9938AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB011EC-1619-472F-9825-9D85D9938AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB011EC-1619-472F-9825-9D85D9938AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D0CE1D9-B7FD-48E3-B481-F6A326437A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0CE1D9-B7FD-48E3-B481-F6A326437A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0CE1D9-B7FD-48E3-B481-F6A326437A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0CE1D9-B7FD-48E3-B481-F6A326437A20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3BE3266-AB52-44C5-9C0D-F5C1ACED68BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3BE3266-AB52-44C5-9C0D-F5C1ACED68BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3BE3266-AB52-44C5-9C0D-F5C1ACED68BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3BE3266-AB52-44C5-9C0D-F5C1ACED68BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
